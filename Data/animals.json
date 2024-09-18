@@ -1,0 +1,14 @@
+﻿[
+    {
+        "Type": "Cow",
+        "Quantity": 5
+    },
+    {
+        "Type": "Sheep",
+        "Quantity": 3
+    },
+    {
+        "Type": "Goat",
+        "Quantity": 4
+    }
+]
